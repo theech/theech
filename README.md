@@ -1,15 +1,15 @@
-Hi 👋 My name is Tee
+Tee
 ====================
 
-Internet of Things Developer
+IoT Engineer 
 ----------------------------
 
-Deployment a Private Low Power Wide Area Networking for commercial, Sensors communication over the internet, Custom industrial embedded boards, Providing IoT platform ecosystem.
+(1).Deployment LoRaWAN Network services for commercial; (2).Sensors communication over the internet; (3).Custom industrial embedded boards; (4).Providing IoT platform ecosystem.
 
-* 🌍  I'm based in Vientiane, Lao PDR.
-* ✉️  You can contact me at [thee.chuangthevy@gmail.com](mailto:thee.chuangthevy@gmail.com)
-* 🧠  I'm learning IIoT
-* 🤝  I'm open to collaborating on transform your business into automation
+* 🌍  Vientiane, Lao PDR.
+* ✉️  Contact me at [thee.chuangthevy@gmail.com](mailto:thee.chuangthevy@gmail.com)
+* 🧠  Learning IIoT
+* 🤝  Free consultative approach your business and customize IoT solutions accordingly
 
 ### Skills
 
