@@ -1,11 +1,11 @@
-IoT Engineer 
-----------------------------
-
-(1).Deployment LoRaWAN Network services for commercial; (2).Sensors communication over the internet; (3).Custom industrial embedded boards; (4).Providing IoT platform ecosystem.
+- Deployment LoRaWAN Network services for commercial
+- Sensors communication over the internet
+- Industrial embedded System Provider
+- Providing IoT platform and ecosystem
 
 * 🌍  Vientiane, Lao PDR.
-* ✉️  Contact me at [thee.chuangthevy@gmail.com](mailto:thee.chuangthevy@gmail.com)
-* 🧠  Learning IIoT
+* ✉️  Contact me at [tee@sensornodeiot.com](mailto:tee@sensornodeiot.com)
+* 🧠  Learning IIoT, Automation, Data Acquisition, BAS and BMS
 * 🤝  Free consultative approach your business and customize IoT solutions accordingly
 
 ### Skills
